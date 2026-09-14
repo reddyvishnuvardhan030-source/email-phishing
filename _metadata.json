@@ -1,0 +1,78 @@
+{
+  "hash": "ede3b5c6",
+  "configHash": "9517128a",
+  "lockfileHash": "2efc0188",
+  "browserHash": "47b682d6",
+  "optimized": {
+    "chart.js": {
+      "src": "../../chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "40ab843f",
+      "needsInterop": false
+    },
+    "leaflet": {
+      "src": "../../leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "a7cfcd0c",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.mjs",
+      "file": "lucide-react.js",
+      "fileHash": "7036ede6",
+      "needsInterop": false
+    },
+    "react-chartjs-2": {
+      "src": "../../react-chartjs-2/dist/index.js",
+      "file": "react-chartjs-2.js",
+      "fileHash": "3464287c",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "86973afa",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a92201b2",
+      "needsInterop": true
+    },
+    "react-leaflet": {
+      "src": "../../react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "ef5fb786",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "8accd97c",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "ddb13328",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "6813859a",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chart-BWfTe4h3": {
+      "file": "chart-BWfTe4h3.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-DC62tzP2": {
+      "file": "rolldown-runtime-DC62tzP2.js",
+      "isDynamicEntry": false
+    }
+  }
+}
